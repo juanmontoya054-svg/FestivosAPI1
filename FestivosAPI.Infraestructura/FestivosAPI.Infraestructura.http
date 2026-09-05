@@ -1,0 +1,6 @@
+@FestivosAPI.Infraestructura_HostAddress = http://localhost:5084
+
+GET {{FestivosAPI.Infraestructura_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
